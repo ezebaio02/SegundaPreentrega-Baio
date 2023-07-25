@@ -201,10 +201,9 @@ h1 {
     text-align: center;
     text-shadow: 20;
     display: inline-block;
-    margin: 50px;
+    margin: 20px;
     background-color: black;
     border: 2px white solid;
-    padding: 10px;
 }
 
 .ubicacion{
