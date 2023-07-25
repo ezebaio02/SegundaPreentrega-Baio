@@ -211,6 +211,7 @@ h1 {
     background-color: black;
     display: flex;
     justify-content: space-around;
+    padding: 20px;
 }
 
 .ubicacion p{
@@ -448,6 +449,5 @@ footer div a img{
     height: 50px;
     margin: 15px;
 }
-
 
 
