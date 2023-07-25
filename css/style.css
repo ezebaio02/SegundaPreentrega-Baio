@@ -191,6 +191,8 @@ h1 {
     background-attachment: fixed;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .nosotros p{
